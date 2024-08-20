@@ -1,5 +1,7 @@
 # ABIDE
 ## This is a respository for the source code for my undergraduate research topic of Autism and behavioral analysis. All code is under the format of Jupyter Notebook
+### 
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/9a6aeb19-334c-4184-9992-adbeb4c141c3">
 
 
 ## This is where I will track the information I learned about k-nearest neighbors and the steps that I took 
