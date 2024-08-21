@@ -1,4 +1,5 @@
-# Undergraduate Independent Research Project: Autism Spectrum Disorder Sex Bias    
+# Undergraduate Independent Research Project: Usage of Biomarkers to Standardize Autism Brain Imaging Data Exchange (ABIDE) Dataset
+
 ![image](https://github.com/user-attachments/assets/25bc8055-8ae6-4d41-971a-fcdd59532ac6)
 
 ## This is a respository for the source code for my undergraduate research topic of Autism and behavioral analysis. All code is under the format of Jupyter Notebook. The data used is from Autism Brain Imaging Data Exchange (ABIDE): https://fcon_1000.projects.nitrc.org/indi/abide/ 
