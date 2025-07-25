@@ -1,4 +1,4 @@
-# Undergraduate Independent Research Project: Usage of Biomarkers to Standardize Autism Brain Imaging Data Exchange (ABIDE) Dataset
+# Undergraduate Independent Research Project: Sex Bias in Autism Spectrum Disorder
 
 ![image](https://github.com/user-attachments/assets/25bc8055-8ae6-4d41-971a-fcdd59532ac6)
 
